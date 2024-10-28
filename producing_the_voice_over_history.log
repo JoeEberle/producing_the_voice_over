@@ -12,3 +12,17 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
                                                                                                                         
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-10-25 23:38:10,610 - INFO - START producing_the_voice_over =============================================
+2024-10-25 23:38:10,610 - INFO - START producing_the_voice_over Start Time = 2024-10-25 23:38:10
+2024-10-25 23:38:10,610 - INFO - producing_the_voice_over Step 0 - Initialize the configuration file parser
+2024-10-25 23:38:10,611 - INFO - Process producing_the_voice_over Step 0 - Initializing and starting Logging Process.
+2024-10-25 23:38:10,655 - INFO - PERFORMANCE producing_the_voice_over The total process duration was:0.05
+2024-10-25 23:38:10,655 - INFO - PERFORMANCE producing_the_voice_over Stop Time = 2024-10-25 23:38:10
+2024-10-25 23:38:10,656 - INFO - PERFORMANCE producing_the_voice_over Short process duration less than 3 Seconds:0.05
+2024-10-25 23:38:10,656 - INFO - PERFORMANCE producing_the_voice_over Performance optimization is not reccomended
+2024-10-25 23:38:10,656 - INFO - END producing_the_voice_over =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
